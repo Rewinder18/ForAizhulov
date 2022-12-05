@@ -1,0 +1,11 @@
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\obj\Debug\PatternsObuchenie.csproj.AssemblyReference.cache
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\obj\Debug\PatternsObuchenie.csproj.CoreCompileInputs.cache
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\bin\Debug\PatternsObuchenie.exe.config
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\bin\Debug\PatternsObuchenie.exe
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\bin\Debug\PatternsObuchenie.pdb
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\obj\Debug\PatternsObuchenie.exe
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\obj\Debug\PatternsObuchenie.pdb
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\obj\Debug\PatternsObuchenie.csproj.SuggestedBindingRedirects.cache
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MohenTohen\source\repos\PatternsObuchenie\PatternsObuchenie\obj\Debug\PatternsObuchenie.csproj.CopyComplete
